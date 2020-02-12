@@ -1,0 +1,6 @@
+D:\9e_5\programi\bgonair\bgonair\bin\Debug\bgonair.exe.config
+D:\9e_5\programi\bgonair\bgonair\bin\Debug\bgonair.exe
+D:\9e_5\programi\bgonair\bgonair\bin\Debug\bgonair.pdb
+D:\9e_5\programi\bgonair\bgonair\obj\Debug\bgonair.csprojResolveAssemblyReference.cache
+D:\9e_5\programi\bgonair\bgonair\obj\Debug\bgonair.exe
+D:\9e_5\programi\bgonair\bgonair\obj\Debug\bgonair.pdb
