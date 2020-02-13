@@ -1,0 +1,6 @@
+D:\9e_5\ot 10 v 2\ot 10 v 2\bin\Debug\ot 10 v 2.exe.config
+D:\9e_5\ot 10 v 2\ot 10 v 2\bin\Debug\ot 10 v 2.exe
+D:\9e_5\ot 10 v 2\ot 10 v 2\bin\Debug\ot 10 v 2.pdb
+D:\9e_5\ot 10 v 2\ot 10 v 2\obj\Debug\ot 10 v 2.csprojResolveAssemblyReference.cache
+D:\9e_5\ot 10 v 2\ot 10 v 2\obj\Debug\ot 10 v 2.exe
+D:\9e_5\ot 10 v 2\ot 10 v 2\obj\Debug\ot 10 v 2.pdb
